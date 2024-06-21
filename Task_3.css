@@ -1,0 +1,21 @@
+body {
+    margin: 40px 30px;
+    line-height: 18pt;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+div {
+    color: grey;
+}
+
+dt {
+    font-style: italic;
+}
+a:hover {
+    color: #0056b3;
+    background-color: #f0f0f0;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}

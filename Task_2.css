@@ -1,0 +1,36 @@
+body {
+    margin: 0 40px 40px;
+    font-size: 12pt;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background: #F0F0F0;
+}
+
+ul {
+    margin-left: -40px;
+    list-style-position: inside;
+}
+
+li {
+    padding: 10px 40px;
+    white-space: pre;
+    list-style-image: url(unchecked_16.png);
+}
+
+span {
+    color: darkred;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.sky {
+    background: #A5CCDA;
+}
+
+.blue {
+    background: #ADD8E6;
+}
+
+.grey {
+    background: #E2E2E2;
+    list-style-image: url(checked_16.png);
+}
